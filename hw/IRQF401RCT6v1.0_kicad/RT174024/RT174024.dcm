@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT174024
+D RELAY RT 24 VDC/8A
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT1_sensitive&DocType=DS&DocLang=English
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "IRQF401RCT6-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/IRQF401RCT6-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC1480CS8PBF")(type "KiCad")(uri "${KIPRJMOD}/KiCad/LTC1480CS8PBF.kicad_sym")(options "")(descr ""))
+)

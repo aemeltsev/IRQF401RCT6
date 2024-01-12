@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC1480CS8PBF
+D 3.3V Ultralow Power RS485 Transceiver
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1480fa.pdf
+$ENDCMP
+#
+#End Doc Library

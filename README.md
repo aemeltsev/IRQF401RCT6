@@ -8,6 +8,6 @@ Overview
 --------
 Simply dev. board based STM32F401RCT6. And includes in self: i2c eeprom memory and RS485 transceiver ic.
 
-![PCB image][IRQF401RCT6v1.002.revB]
+![PCB image][pcb_ray]
 
-[IRQF401RCT6v1.002.revB]: https://github.com/aemeltsev/IRQF401RCT6/blob/master/doc/IRQF401RCT6v1.002.revB.png
+[pcb_ray]: https://github.com/aemeltsev/IRQF401RCT6/blob/master/doc/pcb_ray.png
